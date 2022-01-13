@@ -1,0 +1,38 @@
+_repo: In-the-Rockies-with-Kit-Carson_67018
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Kromer, A. Edwin
+    gutenberg_agent_id: '53933'
+    url: http://www.gutenberg.org/2009/agents/53933
+  - agent_name: Boyer, Ralph L. (Ralph Ludwig)
+    birthdate: 1879
+    deathdate: 1952
+    gutenberg_agent_id: '34848'
+    url: http://www.gutenberg.org/2009/agents/34848
+creator:
+  author:
+    agent_name: McIntyre, John T. (John Thomas)
+    alias: McIntyre, John Thomas
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '4311'
+    url: http://www.gutenberg.org/2009/agents/4311
+    wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
+description: ''
+gutenberg_issued: '2021-12-26'
+identifiers:
+  gutenberg: '67018'
+  lccn: '13023728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The buckskin books
+subjects:
+- !lcc 'PS'
+- !lcsh 'Carson, Kit, 1809-1868 -- Fiction'
+- !lcsh 'Rocky Mountains -- Fiction'
+- GITenberg
+title: In the Rockies with Kit Carson
+url: http://www.gutenberg.org/ebooks/67018
